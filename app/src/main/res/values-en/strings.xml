@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidApp, where your dreams begin</string>
+    <string name="usuario">Enter User</string>
+    <string name="password">Enter  Password</string>
+    <string name="ingresar">Enter</string>
+    <string name="email">Enter E-mail</string>
+    <string name="recuperar">RECUPERAR</string>
+    <string name="toolbar_title_createaccount">Recuperar Password</string>
+    <string name="regbutton">Registrar</string>
+    <string name="datosPersonales">Datos Personales</string>
+    <string name="amistades">Amistades</string>
+    <string name="home">Inicio</string>
+    <string name="creditos">Créditos</string>
+
+</resources>

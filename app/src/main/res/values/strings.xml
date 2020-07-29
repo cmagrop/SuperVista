@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">AndroidApp, donde comienzan tus sueños</string>
+    <string name="usuario">Ingrese usuario</string>
+    <string name="password">Ingrese Password</string>
+    <string name="ingresar">ingresar</string>
+    <string name="email">Ingrese correo electrónico</string>
+    <string name="recuperar">RECUPERAR</string>
+    <string name="toolbar_title_createaccount">Recuperar Password</string>
+    <string name="regbutton">Registrar</string>
+    <string name="datosPersonales">Datos Personales</string>
+    <string name="amistades">Amistades</string>
+    <string name="home">Inicio</string>
+    <string name="creditos">Créditos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

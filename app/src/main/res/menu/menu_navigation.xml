@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+<item
+    android:id="@+id/datos_personales"
+    android:title="@string/datosPersonales"
+    android:icon="@drawable/ic_datos_personales"
+
+
+    >
+
+
+
+</item>
+
+
+    <item
+        android:id="@+id/amistades"
+        android:title="@string/amistades"
+        android:icon="@drawable/ic_amistades"
+        >
+
+
+
+    </item>
+
+
+
+    <item
+        android:id="@+id/creditos"
+        android:title="@string/creditos"
+        android:icon="@drawable/ic_creditos"
+
+        >
+
+    </item>
+
+</menu>
